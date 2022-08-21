@@ -2,7 +2,7 @@
 
 ## 1. Overview of the Neural Network Charity Analysis
 
-he purpose of this project is to use deep-learning neural networks with the TensorFlow platform to analyze and classify the success of charitable donations.
+The purpose of this project is to use deep-learning neural networks with the TensorFlow platform to analyze and classify the success of charitable donations.
 
 ## 2. Results:
 
